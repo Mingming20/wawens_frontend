@@ -1,4 +1,4 @@
-<template>
+  <template>
   <div>
     <b-modal id="confirmedhistory" size="xl" hide-footer hide-header>
         <h2 class="modal-title">ORDER DETAILS</h2>
